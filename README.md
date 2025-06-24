@@ -72,9 +72,9 @@
 1. Create a `.env` file in the root of your project:
 
    ```env
-   HOST=localhost
-   USER=your_mysql_user
-   PASSWORD=your_mysql_password
+   HOST_DB=localhost
+   USER_DB=your_mysql_user
+   PASSWORD_DB=your_mysql_password
    DB=your_database_name
    ```
 
